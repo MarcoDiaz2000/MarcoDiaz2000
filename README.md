@@ -65,11 +65,10 @@ Hello, my name is Marco Diaz, I am a Full-stack web developer, and digital marke
     bg_color=#808080/></p>
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MarcoDiaz2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="MarcoDiaz2000" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MarcoDiaz2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="MarcoDiaz2000" /></p>
     
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoDiaz2000&show_icons=true&locale=en&layout=compact" alt="MarcoDiaz2000" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoDiaz2000&show_icons=true&locale=en&layout=compact" alt="MarcoDiaz2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mMarcoDiaz2000&show_icons=true&locale=en" alt="MarcoDiaz2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcoDiaz2000&show_icons=true&locale=en" alt="MarcoDiaz2000" /></p>
     
     
