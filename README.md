@@ -4,10 +4,11 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="./animation.gif" alt="animation" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img width="40%" src="./animation.gif" alt="animation" /> 
   </p>
 
 <br>
+
 
 Hello, my name is Marco Diaz, I am a Full-stack web developer, and digital marketing specialist and passionate about turning imagination into reality, and my biggest goal in life is to use software engineering to help people and organizations change the world in a positive way.
 
