@@ -67,11 +67,3 @@ Hello, my name is Marco Diaz, I am a Full-stack web developer, and digital marke
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MarcoDiaz2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="MarcoDiaz2000" /></p>
-
-
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MarcoDiaz2000 /></p></p> -->
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/MarcoDiaz2000/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=MarcoDiaz2000&bg_color=0d1117&text_color=ffffff" alt="MarcoDiaz2000" /></a> </p> -->
