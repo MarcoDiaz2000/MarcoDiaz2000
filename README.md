@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Marco Díaz</h1>
 <h2 align="center">Full-stack web developer</h2>
-<p><img align="right" src="./" alt="mMarcoDiaz2000" width="400"/></p>
+<p><img align="right" src="./animation.gif" alt="MarcoDiaz2000" width="400"/></p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img width="40%" src="./animation.gif" alt="animation" /> 
-  </p>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MarcoDiaz2000&label=Profile%20views&color=0e75b6&style=flat" alt="MarcoDiaz2000" /> 
+</p>
+
 
 <br>
 
