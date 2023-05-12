@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Díaz</h1>
 <h2 align="center">Full-stack web developer</h2>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mMarcoDiaz2000" width="400"/></p>
+<p><img align="right" src="./" alt="mMarcoDiaz2000" width="400"/></p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MarcoDiaz2000&label=Profile%20views&color=0e75b6&style=flat"
-    alt="MarcoDiaz2000" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="./animation.gif" alt="animation" /> 
   </p>
 
 <br>
@@ -68,7 +67,7 @@ Hello, my name is Marco Diaz, I am a Full-stack web developer, and digital marke
     alt="MarcoDiaz2000" /></p>
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p></p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MarcoDiaz2000 /></p></p> -->
 
 <!-- <br>
 <h3>Trophies :-</h3>
